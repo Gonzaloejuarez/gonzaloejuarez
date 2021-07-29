@@ -1,7 +1,7 @@
 ### console.log('Hola a todos!!')
 
 
-**Gonzaloejuarez/gonzaloejuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sean bienvenidos a mi perfil de GitHub
 
 Here are some ideas to get you started:
 
