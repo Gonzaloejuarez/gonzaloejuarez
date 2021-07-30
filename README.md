@@ -2,8 +2,19 @@
 
 <h5>Sean bienvenidos a mi GitHub <h5>
 
-Gonzalo = {
+```javascript
+  const Gonzalo ={
+   Lenguajes :{
+      [JavaScript]
+   },
+   FrontEnd: {[
+   {   Javascript : ['ReactJs', 'Redux', 'ReactNative'] }
+  ]
+   },
+   BackEnd:{[
+   {JavaScript : ['Express', 'NodeJs', 'Sequalize']}
+   ]}
    
-}
-```
+   }
+   
 
