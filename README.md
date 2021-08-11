@@ -16,5 +16,5 @@
    ]},
    }
 ```
-  
+  [documentación](https://facebook.github.io/react/docs/dom-elements.html#style)
 
