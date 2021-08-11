@@ -16,5 +16,5 @@
    ]},
    }
 ```
- <a href="https://static.thenounproject.com/png/204643-200.png"/> [LinkedIn](https://www.linkedin.com/in/gonzalo-juarez-o2/) <br>
+ <td ><a href="https://static.thenounproject.com/png/204643-200.png"/> [LinkedIn](https://www.linkedin.com/in/gonzalo-juarez-o2/)</td> <br>
   [Gmail](juarezgonzalo000@gmail.com)
