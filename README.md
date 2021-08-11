@@ -16,5 +16,5 @@
    ]},
    }
 ```
-  [documentación](https://facebook.github.io/react/docs/dom-elements.html#style)
-
+  [LinkedIn](https://www.linkedin.com/in/gonzalo-juarez-o2/)
+  [Gmail](juarezgonzalo000@gmail.com)
