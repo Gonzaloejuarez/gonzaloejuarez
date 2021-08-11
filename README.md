@@ -14,7 +14,7 @@
    BackEnd:{[
    {JavaScript : ['Express', 'NodeJs', 'Sequalize']}
    ]}
-   
    }
-   
+```
+  soft-skills
 
