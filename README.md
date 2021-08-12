@@ -2,11 +2,8 @@
 
 <h1>Gonzalo Emanuel Juarez</h1>
 
-<h5>Sean bienvenidos a mi GitHub <h5>
+<h2>Sean bienvenidos a mi GitHub <h2>
 
-<img src="https://w7.pngwing.com/pngs/371/396/png-transparent-computer-icons-linkedin-logo-linkedin-white-angle-text-logo.png" width="10" height="10"/>[LinkedIn](https://www.linkedin.com/in/gonzalo-juarez-o2/)<br>
-[Gmail](https://mail.google.com/a/?view=cm&fs=1&to=juarezgonzalo000@gmail.com)
-  
 ```javascript
   const Gonzalo ={
    Lenguajes :{
@@ -22,7 +19,17 @@
     JavaScript : ['Express', 'NodeJs', 'Sequalize']
     }]
    },
+   Skills :{[
+     {
+     Soft_Skills : ['Trabajador','Aprendizaje rapido',
+     'Buen compañero',]
+     }] 
+   },
   }
 ```
-  ![xkcd](./img/standards.png)
+<h3>Contacto</h3>
+
+[LinkedIn](https://www.linkedin.com/in/gonzalo-juarez-o2/)<br>
+[Gmail](https://mail.google.com/a/?view=cm&fs=1&to=juarezgonzalo000@gmail.com)
+
 
