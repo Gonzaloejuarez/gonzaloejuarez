@@ -29,6 +29,14 @@
      Soft_Skills : ['Trabajador','Aprendizaje rapido','Buen compañero',]
      }] 
    },
+   Projects : [
+     {
+       Videogames : ['React', 'Redux', 'Sequalize', 'NodeJs' , 'PostgreSQL' ]
+     },
+     {
+       Wall_et: ['React' , 'Redux' , 'Sequalize' , 'NodeJs', 'PostgreSQL']
+     },
+   },
   }
 ```
 
