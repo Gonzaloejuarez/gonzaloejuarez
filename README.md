@@ -4,6 +4,11 @@
 
 <h2>Sean bienvenidos a mi GitHub <h2>
 
+  <h3>Contacto</h3>
+
+[LinkedIn](https://www.linkedin.com/in/gonzalo-juarez-o2/)<br>
+[Gmail](https://mail.google.com/a/?view=cm&fs=1&to=juarezgonzalo000@gmail.com)
+  
 ```javascript
   const Gonzalo ={
    Lenguajes :{
@@ -26,9 +31,6 @@
    },
   }
 ```
-<h3>Contacto</h3>
 
-[LinkedIn](https://www.linkedin.com/in/gonzalo-juarez-o2/)<br>
-[Gmail](https://mail.google.com/a/?view=cm&fs=1&to=juarezgonzalo000@gmail.com)
 
 
