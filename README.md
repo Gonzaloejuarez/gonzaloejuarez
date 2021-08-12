@@ -21,8 +21,7 @@
    },
    Skills :{[
      {
-     Soft_Skills : ['Trabajador','Aprendizaje rapido',
-     'Buen compañero',]
+     Soft_Skills : ['Trabajador','Aprendizaje rapido','Buen compañero',]
      }] 
    },
   }
