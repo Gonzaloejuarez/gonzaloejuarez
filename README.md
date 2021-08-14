@@ -17,7 +17,8 @@
    FrontEnd:{[
    {   
     Javascript : ['ReactJs', 'Redux', 'ReactNative'] 
-    }]
+    }
+  ]
    },
    BackEnd:{[
    {
