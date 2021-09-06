@@ -6,8 +6,11 @@
 
   <h3>Contacto</h3>
 
-[LinkedIn](https://www.linkedin.com/in/gonzalo-juarez-o2/)<br>
-[Gmail](https://mail.google.com/a/?view=cm&fs=1&to=juarezgonzalo000@gmail.com)
+
+ 
+ # Mi portafolio
+ [Gonzalo Juarez](https://gonzalo-juarez-portoflio.vercel.app/) 🚀 🚀
+
   
 ```javascript
   const Gonzalo ={
@@ -40,6 +43,9 @@
    },
   }
 ```
+# Contacto
+[![LinkedIn](https://cdn-icons-png.flaticon.com/128/145/145807.png)](https://www.linkedin.com/in/gonzalo-juarez-o2/)
+[![Instagram](https://cdn-icons-png.flaticon.com/128/2111/2111463.png)](https://www.instagram.com/gonzaloejuarez/)
 
 
 
