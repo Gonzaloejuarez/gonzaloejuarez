@@ -44,5 +44,5 @@
 [![twitter](https://cdn-icons-png.flaticon.com/128/145/145812.png)](https://twitter.com/Gonzaajua)
 
 # Mi portafolio 🚀 🚀
- [Gonzalo Juarez](https://gonzalo-juarez-portoflio.vercel.app/) 
+ [Gonzalo Juarez](https://gonzalojuarez.vercel.app/) 
 
