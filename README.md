@@ -25,11 +25,11 @@
 ```javascript
    Lenguajes =[JavaScript];
   
-   FrontEnd = {JavaScript: [ReactJs, Redux]}
+   FrontEnd = ['ReactJs', 'Redux', 'HTML5', 'CSS3' , 'CSSModules' , 'SASS' , 'Bootstrap']
   
-   BackEnd ={JavaScript : ['Express', 'NodeJs', 'Sequalize']}
+   BackEnd =['Express', 'NodeJs', 'Sequalize']
  
-   Skills = { Soft_Skills : ['Trabajo en equipo','Aprendizaje rapido','Buen compañero']}
+   Soft_Skills = ['Trabajo en equipo','Aprendizaje rapido','Buen compañero']}
  
 ```
  
