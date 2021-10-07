@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/b8/83/3a/b8833a9da1cf3e190ae5b0fb6f2e8c6f.jpg" width="100%" height="150"/>
+<img src="./img/fondo2.png" />
 
 <h1>Gonzalo Emanuel Juarez</h1>
 
