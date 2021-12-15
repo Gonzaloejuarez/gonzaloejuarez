@@ -36,6 +36,7 @@
   
   
 # Contacto
+
 [![LinkedIn](https://cdn-icons-png.flaticon.com/128/145/145807.png)](https://www.linkedin.com/in/gonzalo-juarez-o2/)
 [![Gmail](https://cdn-icons-png.flaticon.com/128/281/281769.png)](https://mail.google.com/mail/u/0/?fs=1&to=juarezgonzalo000@gmail.com&tf=cm)
 [![Wsp](https://cdn-icons-png.flaticon.com/128/220/220236.png)](https://api.whatsapp.com/send?phone=1130449589)
