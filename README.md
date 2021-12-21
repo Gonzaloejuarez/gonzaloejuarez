@@ -25,7 +25,7 @@
 ```javascript
    Lenguajes =[JavaScript];
   
-   FrontEnd = ['ReactJs', 'Redux', 'HTML5', 'CSS3' , 'CSSModules' , 'SASS' , 'Bootstrap']
+   FrontEnd = ['ReactJs', 'Redux', 'HTML5', 'CSS3' , 'CSSModules' , 'SASS' , 'Bootstrap', 'MaterialUI']
   
    BackEnd =['Express', 'NodeJs', 'Sequalize']
  
