@@ -6,7 +6,7 @@
 
   <h3>Sobre mi</h3>
   <p> 
-  Me llamo Gonzalo y tengo 19 años, soy de Hurlingham, Buenos Aires, Argentina  🇦🇷. <br>
+  Me llamo Gonzalo y tengo 20 años, soy de Hurlingham, Buenos Aires, Argentina  🇦🇷. <br>
   En mis tiempos libres me gusta hacer deporte ⚽, tomar mate 🧉, pasar en familia, pareja y amigos 😄
   </p>
  
@@ -27,11 +27,11 @@
 ```javascript
    Lenguajes =[JavaScript];
   
-   FrontEnd = ['ReactJs', 'Redux', 'HTML5', 'CSS3' , 'CSSModules' , 'SASS' , 'Bootstrap', 'MaterialUI']
+   FrontEnd = ['ReactJs', 'Redux', 'HTML5', 'CSS3' , 'CSSModules' , 'SASS']
   
-   BackEnd =['Express', 'NodeJs', 'Sequalize']
+   BackEnd =['Express', 'NodeJs', 'Sequalize', 'MongoDB']
  
-   Soft_Skills = ['Trabajo en equipo','Aprendizaje rapido','Buen compañero']}
+   Soft_Skills = ['Trabajo en equipo','Aprendizaje rapido','Buen compañero', 'Cumplidor']
  
 ```
  
@@ -48,5 +48,5 @@
 [![twitter](https://cdn-icons-png.flaticon.com/128/145/145812.png)](https://twitter.com/Gonzaajua)
 
 # Mi portafolio 🚀 🚀
- [Gonzalo Juarez](https://portfolio-gonzalo-wheat.vercel.app/) 
+ [Gonzalo Juarez](https://portafolio-chi-seven.vercel.app/) 
 
