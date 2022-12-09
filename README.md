@@ -8,8 +8,23 @@
   <p> 
   Me llamo Gonzalo y tengo 20 años, soy de Hurlingham, Buenos Aires, Argentina  🇦🇷. <br>
   En mis tiempos libres me gusta hacer deporte ⚽, tomar mate 🧉, pasar en familia, pareja y amigos 😄
+  
+  </br>
+  
+  Mis expectativas para futuro son tener un trabajo estable y ser ingeniero en sistemas
+ 
   </p>
  
+  <h3>Estudios</h3>
+  <p> 
+  Estudie desarrollo web en el bootcamp Henry, con mas de 500hr de codigo en JavaScript.
+  </br>
+  <p>
+  Hoy en dia estoy cursando el primer año de la tecnicatura universitaria en programacion en la Universidad de Hurlingham
+  </p>  
+  </p>
+  
+
   <details>
     <summary>&#128240 <b>Últimos proyectos</b></summary><br/>
 
